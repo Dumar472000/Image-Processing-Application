@@ -49,6 +49,8 @@ This tool lets you work with images in many different ways. You can load photos,
 - Modern dark theme with gradient styling
 - Easy-to-use dropdown menu for function selection
 
+- ![Digital Image Processing Studio Interface](gui/assets/Dip_App_SS.png)
+
 ## How to Run
 
 ### Requirements
